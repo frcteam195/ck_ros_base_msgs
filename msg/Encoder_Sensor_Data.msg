@@ -1,0 +1,5 @@
+int32 id
+float64 absolute_position
+float64 relative_position
+float64 velocity
+bool faulted
