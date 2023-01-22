@@ -28,4 +28,4 @@ int8 vbat_config
 float64 vbat_duty_cycle
 int8 led_control_mode
 LED_Color color
-LED_Animation[] animation
+LED_Animation[] animations
