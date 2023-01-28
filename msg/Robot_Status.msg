@@ -13,3 +13,4 @@ int8 alliance
 float64 match_time
 string game_data
 int32 selected_auto
+bool is_connected
