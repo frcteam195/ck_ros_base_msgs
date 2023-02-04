@@ -26,3 +26,5 @@ float64 raw_closed_loop_error
 float64 raw_integral_accum
 float64 raw_error_derivative
 float64 raw_output_percent
+int32 faults
+int32 sticky_faults
