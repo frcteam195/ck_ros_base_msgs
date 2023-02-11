@@ -1,0 +1,3 @@
+string transition_history
+string current_state
+int32 current_state_int
