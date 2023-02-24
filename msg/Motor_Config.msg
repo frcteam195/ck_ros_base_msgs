@@ -60,3 +60,8 @@ int8 reverse_limit_switch_normal
 float64 peak_output_forward
 float64 peak_output_reverse
 int8 feedback_sensor_can_id
+int8 active_gain_slot
+float64 kP_1
+float64 kI_1
+float64 kD_1
+float64 kF_1
