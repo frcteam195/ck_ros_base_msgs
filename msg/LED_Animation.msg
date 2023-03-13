@@ -7,6 +7,8 @@ int8 ANIMATIONTYPE_RGBFADE=4
 int8 ANIMATIONTYPE_SINGLEFADE=5
 int8 ANIMATIONTYPE_TWINKLE=6
 int8 ANIMATIONTYPE_TWINKLEOFF=7
+int8 ANIMATIONTYPE_STROBE=8
+int8 ANIMATIONTYPE_MORSE=20
 
 # Direction enum
 int8 DIRECTION_FORWARD=0
@@ -21,3 +23,4 @@ int8 animation_type
 int8 direction
 int32 offset
 int32 slot
+string morse_message
