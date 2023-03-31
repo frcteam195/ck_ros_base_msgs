@@ -4,4 +4,5 @@ float64[] x_values
 float64[] y_values
 float64[] track_values
 float64[] heading_values
-float64[] velocities
+float64[] velocity_values
+float64[] time
